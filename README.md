@@ -30,4 +30,4 @@
         </ul>
     </p>
     <p><h3>You can see full functionality here:</h3></p>
-    <p><iframe width="853" height="480" src="https://www.youtube.com/embed/E69bSBB5eIU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    https://www.youtube.com/watch?v=E69bSBB5eIU</p>
